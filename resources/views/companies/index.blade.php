@@ -73,7 +73,6 @@
                                             @endif
                                             <div>
                                                 <p class="text-sm font-semibold text-gray-900">{{ $company->name }}</p>
-                                                <p class="text-xs text-gray-500">Company ID: #{{ $company->id }}</p>
                                             </div>
                                         </div>
                                     </td>
